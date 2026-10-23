@@ -1,6 +1,7 @@
 {
-  "name": "Sangeet",
-  "description": "Stream online tracks, download songs for offline listening, manage playlists, lyrics, and audio player.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "name": "SoundStream",
+  "description": "Stream and download your favorite songs to enjoy anytime, anywhere, with both online and offline listening options.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
